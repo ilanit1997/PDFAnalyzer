@@ -1,1 +1,34 @@
-{'id': 'c50039c8-8c86-4e86-8d6a-5169d01934f3', 'classification': {'type': 'Invoice', 'confidence': 1.0}, 'metadata': {'vendor': 'MAiSTRA d.d.', 'amount': 9390.26, 'due_date': None, 'line_items': [{'description': 'Mietpreis & Voüpension-premium', 'quantity': 1, 'amount': 0.0}, {'description': 'Mietpreis & Voüpension-premium', 'quantity': 1, 'amount': 9249.26}, {'description': 'Welcome bar hotel Amarin', 'quantity': 1, 'amount': 90.0}, {'description': 'Istrian beach house II', 'quantity': 2, 'amount': 51.0}]}}
+{
+  "id": "c50039c8-8c86-4e86-8d6a-5169d01934f3",
+  "classification": {
+    "type": "Invoice",
+    "confidence": 1.0
+  },
+  "metadata": {
+    "vendor": "MAiSTRA d.d.",
+    "amount": 9390.26,
+    "due_date": "None",
+    "line_items": [
+      {
+        "description": "Mietpreis & Voüpension-premium",
+        "quantity": 1,
+        "amount": 0.0
+      },
+      {
+        "description": "Mietpreis & Voüpension-premium",
+        "quantity": 1,
+        "amount": 9249.26
+      },
+      {
+        "description": "Welcome bar hotel Amarin",
+        "quantity": 1,
+        "amount": 90.0
+      },
+      {
+        "description": "Istrian beach house II",
+        "quantity": 2,
+        "amount": 51.0
+      }
+    ]
+  }
+}

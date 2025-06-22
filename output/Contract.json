@@ -1,1 +1,23 @@
-{'id': '4691131d-29b6-4755-9151-b2a93fc4aafb', 'classification': {'type': 'Contract', 'confidence': 1.0}, 'metadata': {'parties': ['EMERALD HEALTH NATURALS, INC.', 'DR. GAETANO MORELLO N.D. INC.'], 'effective_date': '2019-01-10', 'termination_date': '2021-01-10', 'key_terms': ['Independent contractor engagement', 'Annual fee of $240,000 plus GST', '30 days notice for termination by Contractor', 'Termination for cause by Company', 'Confidentiality obligations', 'Return of property upon termination']}}
+{
+  "id": "4691131d-29b6-4755-9151-b2a93fc4aafb",
+  "classification": {
+    "type": "Contract",
+    "confidence": 1.0
+  },
+  "metadata": {
+    "parties": [
+      "EMERALD HEALTH NATURALS, INC.",
+      "DR. GAETANO MORELLO N.D. INC."
+    ],
+    "effective_date": "2019-01-10",
+    "termination_date": "2021-01-10",
+    "key_terms": [
+      "Independent contractor engagement",
+      "Annual fee of $240,000 plus GST",
+      "30 days notice for termination by Contractor",
+      "Termination for cause by Company",
+      "Confidentiality obligations",
+      "Return of property upon termination"
+    ]
+  }
+}

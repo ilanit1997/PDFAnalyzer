@@ -1,1 +1,25 @@
-{'id': 'a03fb846-80ba-4721-847d-5db86b5887d1', 'classification': {'type': 'Earnings', 'confidence': 1.0}, 'metadata': {'reporting_period': 'Q1 2025', 'key_metrics': [{'name': 'Revenues', 'value': '$90,234'}, {'name': 'Net income', 'value': '$34,540'}, {'name': 'Diluted EPS', 'value': '$2.81'}], 'executive_summary': 'In Q1 2025, Alphabet reported revenues of $90,234 million, reflecting a 12% increase year-over-year. The company achieved a net income of $34,540 million, which is a 46% increase compared to the previous year. The diluted earnings per share rose to $2.81, marking a 49% increase.'}}
+{
+  "id": "a03fb846-80ba-4721-847d-5db86b5887d1",
+  "classification": {
+    "type": "Earnings",
+    "confidence": 1.0
+  },
+  "metadata": {
+    "reporting_period": "Q1 2025",
+    "key_metrics": [
+      {
+        "name": "Revenues",
+        "value": "$90,234"
+      },
+      {
+        "name": "Net income",
+        "value": "$34,540"
+      },
+      {
+        "name": "Diluted EPS",
+        "value": "$2.81"
+      }
+    ],
+    "executive_summary": "In Q1 2025, Alphabet reported revenues of $90,234 million, reflecting a 12% increase year-over-year. The company achieved a net income of $34,540 million, which is a 46% increase compared to the previous year. The diluted earnings per share rose to $2.81, marking a 49% increase."
+  }
+}
