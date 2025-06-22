@@ -1,0 +1,25 @@
+{
+    "id": "2a925cb7-cd06-49f4-a4e8-31eb9e505c28",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "IPASS INC.",
+            "Pareteum Corporation"
+        ],
+        "effective_date": "2018-04-24",
+        "termination_date": "2019-04-24",
+        "key_terms": [
+            "nonexclusive, terminable right to access and use Licensed Software",
+            "Channel Partner responsible for billing End Users",
+            "iPass grants Channel Partner a nonexclusive right to sell or re-license Licensed Software",
+            "Channel Partner must enter into End User Agreements",
+            "iPass may change pricing with notice",
+            "termination for breach or bankruptcy",
+            "confidentiality obligations",
+            "indemnification obligations"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "61d54481-0197-4157-8fea-c78b6ca470cb",
+    "classification": {
+        "type": "Earnings",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "reporting_period": "Fourth Quarter 2019",
+        "key_metrics": [
+            {
+                "name": "Revenues",
+                "value": "$18,378"
+            },
+            {
+                "name": "Net Income",
+                "value": "$4,979"
+            },
+            {
+                "name": "EPS",
+                "value": "$2.15"
+            },
+            {
+                "name": "Return on Tangible Common Equity (RoTCE)",
+                "value": "12.4%"
+            },
+            {
+                "name": "Common Equity Tier 1 Capital Ratio",
+                "value": "11.7%"
+            }
+        ],
+        "executive_summary": "4Q’19 results showed strong client engagement and momentum across the franchise, with solid revenue growth in Consumer and strong performance in Fixed Income Markets. The company achieved a RoTCE of 12.1%, ahead of its full year target, and returned approximately $22 billion of capital to common shareholders."
+    }
+}

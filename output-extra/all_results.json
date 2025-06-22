@@ -1,0 +1,717 @@
+{
+    "Contract_EcoScienceSolutionsInc_20180406_8-K_EX-10": {
+        "id": "12b3e5d3-c8aa-4ee4-b7b1-31c523ec74a0",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "Fruit of Life Productions LLC",
+                "Eco Science Solutions, Inc."
+            ],
+            "effective_date": "2018-04-01",
+            "termination_date": "2018-04-30",
+            "key_terms": [
+                "Sponsor agrees to contract for the amount of $250,000.00",
+                "Main Stage named after the brand",
+                "4 10x10 on site vendor booths",
+                "50 VIP Sponsor Passes / 50 GA tickets for both days",
+                "4 Parking passes",
+                "Opportunity to participate in after party",
+                "Banner placement in venue (10)",
+                "Approved audio/video assets for promotional use",
+                "Logo and link from website to website",
+                "Logo on video wall",
+                "Company name and logo as a presenting sponsor",
+                "Banner at main entrance of venue",
+                "On stage banner placement",
+                "Logo in Backstage/VIP area",
+                "Mention on social media",
+                "Logo on Step and Repeat",
+                "Logo on all promotional print"
+            ]
+        }
+    },
+    "Contract_AgapeAtpCorp_20191202_10-KA_EX-10": {
+        "id": "f715b488-b152-4152-becd-81bf023bcec7",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "ORGANIC PREPARATIONS INC.",
+                "AGAPE ATP INTERNATIONAL HOLDING LIMITED"
+            ],
+            "effective_date": "2018-01-15",
+            "termination_date": "2028-01-15",
+            "key_terms": [
+                "The Manufacturer appoints the Customer as the sole and exclusive agent for the promotion, sales, marketing distribution and administration of the Products.",
+                "The agreement is for a term of ten (10) years.",
+                "The agreement will be automatically renewed at the end of every ten (10) year term.",
+                "A six (6) months notice must be given by either party to terminate the agreement.",
+                "The Manufacturer agrees to supply documentation and information relating to the Products.",
+                "The Customer agrees to pay freight, insurance and any associated expenses for shipping.",
+                "The Manufacturer guarantees that the Products are packaged to prevent foreseeable damage during shipment.",
+                "The Customer shall inspect all Products promptly upon receipt and may reject defective Products.",
+                "Payment terms require 50% payment on order placement and 50% before goods leave the warehouse.",
+                "The Manufacturer must maintain product liability insurance throughout the term of the agreement."
+            ]
+        }
+    },
+    "Contract_ENERGOUSCORP_03_16_2017-EX-10": {
+        "id": "30fba054-e41b-4dd4-8cd4-0d4e0cfd4e6f",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "Dialog Semiconductor (UK) Ltd.",
+                "Energous Corporation"
+            ],
+            "effective_date": "2016-11-06",
+            "termination_date": null,
+            "key_terms": [
+                "Strategic Alliance Agreement",
+                "Non-exclusive license",
+                "Royalties and Service Fees",
+                "Confidential Information",
+                "Indemnification",
+                "Termination rights",
+                "Commercialization Plan"
+            ]
+        }
+    },
+    "Contract_FreezeTagInc_20180411_8-K_EX-10": {
+        "id": "3d7c7614-06b7-409b-ac62-312ab564d45d",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "American Diabetes Association",
+                "Freeze Tag, Inc."
+            ],
+            "effective_date": "2018-03-22",
+            "termination_date": "2020-03-14",
+            "key_terms": [
+                "Purpose: Benefit the Association and advance its not-for-profit mission",
+                "Scope: Identify and acknowledge Company as a supporter",
+                "Term: Commences on March 15, 2018 and expires on March 14, 2020",
+                "Intellectual Property: Association is the sole owner of its name and logos",
+                "License: Non-exclusive, limited license to use Association Marks",
+                "Indemnification: Each Party agrees to defend and hold harmless the other",
+                "Confidentiality: Provisions maintained as confidential during and after the Term",
+                "Governing Law: Subject to laws of the Commonwealth of Virginia"
+            ]
+        }
+    },
+    "Contract_IpassInc_20181203_8-K_EX-99": {
+        "id": "2a925cb7-cd06-49f4-a4e8-31eb9e505c28",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "IPASS INC.",
+                "Pareteum Corporation"
+            ],
+            "effective_date": "2018-04-24",
+            "termination_date": "2019-04-24",
+            "key_terms": [
+                "nonexclusive, terminable right to access and use Licensed Software",
+                "Channel Partner responsible for billing End Users",
+                "iPass grants Channel Partner a nonexclusive right to sell or re-license Licensed Software",
+                "Channel Partner must enter into End User Agreements",
+                "iPass may change pricing with notice",
+                "termination for breach or bankruptcy",
+                "confidentiality obligations",
+                "indemnification obligations"
+            ]
+        }
+    },
+    "Contract_MOELIS_CO_03_24_2014-EX-10": {
+        "id": "52a4186e-a7ec-4dc8-8498-c34159162e3a",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "SUMITOMO MITSUI BANKING CORPORATION",
+                "SMBC NIKKO SECURITIES INC.",
+                "MOELIS & COMPANY HOLDINGS LP",
+                "MOELIS & COMPANY HOLDINGS GP LLC"
+            ],
+            "effective_date": "2011-12-27",
+            "termination_date": "2015-12-27",
+            "key_terms": [
+                "Strategic Alliance",
+                "Non-Circumvention",
+                "Non-Solicitation",
+                "Fee Allocation",
+                "Joint Marketing",
+                "Confidentiality",
+                "Registration Rights"
+            ]
+        }
+    },
+    "Contract_ReynoldsConsumerProductsInc_20191115_S-1_EX-10": {
+        "id": "7c862a43-deca-4b69-b6b3-12b91bd984c1",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "REYNOLDS CONSUMER PRODUCTS LLC",
+                "PACTIV LLC"
+            ],
+            "effective_date": "2019-11-01",
+            "termination_date": null,
+            "key_terms": [
+                "Seller sells various types of products used in the consumer and food service markets.",
+                "Buyer sells various types of products, including certain products of the type made by Seller, to its customers.",
+                "The Term of this Agreement will commence on the Effective Date and will end on the earlier of: (a) the first anniversary of the expiration date of the last Purchase Schedule; (b) a termination date elected by a Party in a written notice delivered to the other Party any time after the expiration of the last Purchase Schedule; or (c) a termination date elected by a Party in a written notice delivered to the other Party as provided in Subsection 11(d) of this Agreement.",
+                "This Agreement will apply to all products sold by Seller to Buyer, and all products purchased by Buyer from Seller, during the Term unless the Parties expressly agree that this Agreement will not apply to a particular type of transaction in a separate written document signed by an officer of each Party.",
+                "The Parties may add terms and conditions to, and amend the terms and conditions of, this Agreement in a Purchase Schedule."
+            ]
+        }
+    },
+    "Contract_ReynoldsConsumerProductsInc_20200121_S-1A_EX-10": {
+        "id": "a5b83910-b059-43c0-acd4-9a465dda4fd2",
+        "classification": {
+            "type": "Contract",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "parties": [
+                "Reynolds Group Holdings Inc.",
+                "Reynolds Consumer Products Inc."
+            ],
+            "effective_date": "2020-02-04",
+            "termination_date": null,
+            "key_terms": [
+                "Transition Services Agreement",
+                "Commencement Date",
+                "Provider",
+                "Recipient",
+                "Services",
+                "Termination Date",
+                "Confidential Information",
+                "Indemnified Parties",
+                "Force Majeure Event",
+                "Service Standard"
+            ]
+        }
+    },
+    "Earning Report_Earnings Presentation (FY25 Q4) -wallmart": {
+        "id": "4ccc9315-6606-4550-89cc-123df5693e24",
+        "classification": {
+            "type": "Earnings",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "reporting_period": "FY25 Q4",
+            "key_metrics": [
+                {
+                    "name": "Net Sales",
+                    "value": "$159.9 billion"
+                },
+                {
+                    "name": "Adjusted Operating Income",
+                    "value": "$7.1 billion"
+                },
+                {
+                    "name": "Adjusted EPS",
+                    "value": "$0.60"
+                },
+                {
+                    "name": "Total Revenues",
+                    "value": "$182.6 billion"
+                },
+                {
+                    "name": "Gross Profit Rate",
+                    "value": "23.9%"
+                },
+                {
+                    "name": "Operating Income",
+                    "value": "$7.9 billion"
+                },
+                {
+                    "name": "Free Cash Flow",
+                    "value": "$12.7 billion"
+                }
+            ],
+            "executive_summary": "The Company reported strong performance in FY25 Q4, with net sales reaching $159.9 billion and adjusted operating income of $7.1 billion. Total revenues increased to $182.6 billion, reflecting a 5.3% growth in constant currency. The adjusted EPS was $0.60, demonstrating resilience despite challenges in the market. The gross profit rate improved to 23.9%, supported by effective inventory management and a favorable business mix."
+        }
+    },
+    "Earning Report_Earnings-Presentation-Q1-2025-FINAL-meta": {
+        "id": "53b7224b-c1ea-4686-bebb-2cb383fc3422",
+        "classification": {
+            "type": "Earnings",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "reporting_period": "Q1 2025",
+            "key_metrics": [
+                {
+                    "name": "Total Revenue",
+                    "value": "$42,314"
+                },
+                {
+                    "name": "Advertising Revenue",
+                    "value": "$41,392"
+                },
+                {
+                    "name": "Net Income",
+                    "value": "$5,709"
+                },
+                {
+                    "name": "Diluted Earnings Per Share",
+                    "value": "$2.20"
+                },
+                {
+                    "name": "Operating Income",
+                    "value": "$17,555"
+                },
+                {
+                    "name": "Family Daily Active People",
+                    "value": "3.02 billion"
+                },
+                {
+                    "name": "Average Revenue per Person",
+                    "value": "$14.25"
+                }
+            ],
+            "executive_summary": "In Q1 2025, Meta reported a total revenue of $42.314 billion, driven primarily by advertising revenue of $41.392 billion. The company achieved a net income of $5.709 billion, translating to a diluted earnings per share of $2.20. The Family of Apps continues to show strong engagement with 3.02 billion daily active users, and the average revenue per person reached $14.25."
+        }
+    },
+    "Earning Report_ff_fy2024q1_001e": {
+        "id": "92c645d9-d5c1-4b54-956b-8a35420cad49",
+        "classification": {
+            "type": "Earnings",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "reporting_period": "Q1 FY2024 (April to June 2024)",
+            "key_metrics": [
+                {
+                    "name": "Net Income Attributable to FUJIFILM Holdings",
+                    "value": "60.7 billion yen"
+                },
+                {
+                    "name": "Revenue",
+                    "value": "749.0 billion yen"
+                },
+                {
+                    "name": "Operating Income",
+                    "value": "62.2 billion yen"
+                }
+            ],
+            "executive_summary": "In Q1 FY2024, FUJIFILM Holdings Corporation achieved record highs in revenue, operating income, and net income attributable to the company, driven by strong sales in Imaging, Semiconductor Materials, and Medical Systems. Revenue increased by 13.4% year-over-year, reflecting robust performance across various segments despite challenges in the Healthcare sector due to one-time costs."
+        }
+    },
+    "Earning Report_NVDA-F2Q25-Quarterly-Presentation-FINAL": {
+        "id": "f06ae7f2-3c5e-438a-9042-0d848c511189",
+        "classification": {
+            "type": "Other",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "summary": "The investor presentation for Q2 FY25 highlights NVIDIA's record revenue of $30.0 billion, driven by a 154% year-over-year increase in Data Center revenue, primarily due to strong demand for NVIDIA Hopper GPU computing and networking platforms. The gaming segment also saw growth, with a 16% increase year-over-year. Key announcements include the expansion of NVIDIA's share repurchase authorization by an additional $50 billion and the introduction of new AI technologies and microservices aimed at enhancing generative AI applications. The outlook for Q3 FY25 anticipates continued growth, with projected revenue of approximately $32.5 billion."
+        }
+    },
+    "Earning Report_p200114a": {
+        "id": "61d54481-0197-4157-8fea-c78b6ca470cb",
+        "classification": {
+            "type": "Earnings",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "reporting_period": "Fourth Quarter 2019",
+            "key_metrics": [
+                {
+                    "name": "Revenues",
+                    "value": "$18,378"
+                },
+                {
+                    "name": "Net Income",
+                    "value": "$4,979"
+                },
+                {
+                    "name": "EPS",
+                    "value": "$2.15"
+                },
+                {
+                    "name": "Return on Tangible Common Equity (RoTCE)",
+                    "value": "12.4%"
+                },
+                {
+                    "name": "Common Equity Tier 1 Capital Ratio",
+                    "value": "11.7%"
+                }
+            ],
+            "executive_summary": "4Q’19 results showed strong client engagement and momentum across the franchise, with solid revenue growth in Consumer and strong performance in Fixed Income Markets. The company achieved a RoTCE of 12.1%, ahead of its full year target, and returned approximately $22 billion of capital to common shareholders."
+        }
+    },
+    "Invoice_AmazonWebServices": {
+        "id": "eadfffed-f7e4-4092-8f18-1e8b573e5006",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Amazon Web Services, Inc.",
+            "amount": 4.11,
+            "due_date": "2014-08-03",
+            "line_items": [
+                {
+                    "description": "AWS Data Transfer",
+                    "quantity": null,
+                    "amount": 0.01
+                },
+                {
+                    "description": "Amazon Elastic Compute Cloud",
+                    "quantity": null,
+                    "amount": 1.87
+                },
+                {
+                    "description": "Amazon Glacier",
+                    "quantity": null,
+                    "amount": 2.22
+                },
+                {
+                    "description": "Amazon Simple Storage Service",
+                    "quantity": null,
+                    "amount": 0.01
+                }
+            ]
+        }
+    },
+    "Invoice_AzureInterior": {
+        "id": "aa9d38b5-93f1-41b6-8564-ab6f201881e0",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Azure Interior",
+            "amount": 279.84,
+            "due_date": "2023-04-04",
+            "line_items": [
+                {
+                    "description": "Beeswax XL",
+                    "quantity": 1.0,
+                    "amount": 42.0
+                },
+                {
+                    "description": "Office Chair",
+                    "quantity": 1.0,
+                    "amount": 70.0
+                },
+                {
+                    "description": "Olive Oil",
+                    "quantity": 1.0,
+                    "amount": 0.9
+                },
+                {
+                    "description": "Luxury Truffles",
+                    "quantity": 15.0,
+                    "amount": 150.0
+                }
+            ]
+        }
+    },
+    "Invoice_coolblue1": {
+        "id": "3128518f-511c-436a-9ab6-06cb23a291c6",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Coolblue B.V.",
+            "amount": 717.97,
+            "due_date": null,
+            "line_items": [
+                {
+                    "description": "Apple iPad Air Wifi 16 GB Zilver",
+                    "quantity": 1,
+                    "amount": 399.0
+                },
+                {
+                    "description": "Thuiskopie",
+                    "quantity": 1,
+                    "amount": 4.24
+                },
+                {
+                    "description": "Decoded Leather Slim Cover Apple iPad Air 2 Zwart",
+                    "quantity": 1,
+                    "amount": 69.99
+                },
+                {
+                    "description": "Nintendo 3DS XL Wit + Blauw",
+                    "quantity": 1,
+                    "amount": 189.0
+                },
+                {
+                    "description": "Nintendo AC-adapter",
+                    "quantity": 1,
+                    "amount": 14.99
+                },
+                {
+                    "description": "Mario Kart 7 3DS",
+                    "quantity": 1,
+                    "amount": 44.99
+                }
+            ]
+        }
+    },
+    "Invoice_coolblue2": {
+        "id": "36d760e9-62d7-4a83-b948-e14594c839b3",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Coolblue B.V.",
+            "amount": 4904.94,
+            "due_date": "2014-03-31",
+            "line_items": [
+                {
+                    "description": "Decoded Leather Sleeve 15,4'' Vintage Bruin",
+                    "quantity": 2,
+                    "amount": 199.98
+                },
+                {
+                    "description": "Apple MacBook Pro Retina 13,3'' + Apple Magic Mouse",
+                    "quantity": 1,
+                    "amount": 2321.0
+                },
+                {
+                    "description": "Apple MacBook Pro Retina 15,4'' 256 GB Incl. Thuiskopieheffing: Thuiskopie",
+                    "quantity": 1,
+                    "amount": 4.24
+                },
+                {
+                    "description": "Apple Magic Mouse",
+                    "quantity": null,
+                    "amount": null
+                },
+                {
+                    "description": "Microsoft Office Mac Home and Student 2011 NL PKC",
+                    "quantity": 1,
+                    "amount": 124.99
+                },
+                {
+                    "description": "HP USB 3.0 Port Replicator 3005pr (H1L08ET)",
+                    "quantity": 1,
+                    "amount": 159.99
+                },
+                {
+                    "description": "MSI GS60 2QE-226NL Ghost Pro",
+                    "quantity": 1,
+                    "amount": 1999.0
+                },
+                {
+                    "description": "Hex Outpost Origin Rugzak 15'' Grijs",
+                    "quantity": 1,
+                    "amount": 79.99
+                },
+                {
+                    "description": "Case-Mate Barely There Case Sony Xperia Z3 Transparant",
+                    "quantity": 1,
+                    "amount": 19.99
+                }
+            ]
+        }
+    },
+    "Invoice_FlipkartInvoice": {
+        "id": "cd907683-5cb6-4c17-a83f-461f6b19f818",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "WS Retail Services Pvt. Ltd.",
+            "amount": 319.0,
+            "due_date": null,
+            "line_items": [
+                {
+                    "description": "Memory cards SanDisk Ultra 16 GB MicroSDHC Class 1 48 MB/s Memory Card",
+                    "quantity": 1,
+                    "amount": 319.0
+                }
+            ]
+        }
+    },
+    "Invoice_free_fiber": {
+        "id": "03865a8f-d74b-40fc-8f54-bd60cfe3ae9a",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Free Service Abonné",
+            "amount": 29.99,
+            "due_date": "2015-07-05",
+            "line_items": [
+                {
+                    "description": "Abonnements, forfaits et options",
+                    "quantity": null,
+                    "amount": 29.99
+                },
+                {
+                    "description": "Communications",
+                    "quantity": null,
+                    "amount": 0.0
+                },
+                {
+                    "description": "Services ponctuels ou occasionnels",
+                    "quantity": null,
+                    "amount": 0.0
+                }
+            ]
+        }
+    },
+    "Invoice_NetpresseInvoice": {
+        "id": "d68e386d-54c8-460e-99f8-bacc3f877c99",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "ALEXINUX",
+            "amount": 56.02,
+            "due_date": null,
+            "line_items": [
+                {
+                    "description": "le-tout-lyon.fr du 06/12/2022",
+                    "quantity": 1,
+                    "amount": 45.93
+                },
+                {
+                    "description": "Justificatif PDF",
+                    "quantity": 1,
+                    "amount": 0.75
+                },
+                {
+                    "description": "Justificatif Papier",
+                    "quantity": 0,
+                    "amount": 0
+                }
+            ]
+        }
+    },
+    "Invoice_oyo": {
+        "id": "fde3f627-9e7d-43f9-a812-e7cc68810cf0",
+        "classification": {
+            "type": "Other",
+            "confidence": 0.9999151889987141
+        },
+        "metadata": {
+            "summary": "This document is a payment receipt for a hotel stay at OYO 4189 Resort in Nanganallur, Chennai, for a guest named Sanjay. The stay was from December 31, 2017, to January 1, 2018, with a total charge of Rs 1939 paid in cash at the hotel. The receipt includes details such as the booking ID, payment mode, and a note regarding the inclusion of GST in the total amount. It also provides banking information for Oravel Stays Pvt. Ltd., the company managing the hotel."
+        }
+    },
+    "Invoice_QualityHosting": {
+        "id": "bb553782-32e5-444f-8dc4-aa2761082979",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "iViveLabs Ltd.",
+            "amount": 34.73,
+            "due_date": "2014-05-21",
+            "line_items": [
+                {
+                    "description": "Small Business StandardExchange 2010",
+                    "quantity": 1,
+                    "amount": 3.89
+                },
+                {
+                    "description": "Small Business QualityExchange 2010",
+                    "quantity": 1,
+                    "amount": 5.39
+                },
+                {
+                    "description": "Small Business QualityExchange 2010",
+                    "quantity": 1,
+                    "amount": 5.39
+                },
+                {
+                    "description": "Small Business QualityExchange 2010",
+                    "quantity": 1,
+                    "amount": 5.39
+                },
+                {
+                    "description": "Small Business QualityExchange 2010",
+                    "quantity": 1,
+                    "amount": 5.39
+                },
+                {
+                    "description": "Small Business QualityExchange 2010",
+                    "quantity": 1,
+                    "amount": 5.39
+                },
+                {
+                    "description": "Small Business StandardExchange 2010",
+                    "quantity": 1,
+                    "amount": 3.89
+                }
+            ]
+        }
+    },
+    "Invoice_saeco": {
+        "id": "b80e822a-af20-491e-a097-bfeb90e679c7",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Strategic Corp",
+            "amount": 49.99,
+            "due_date": "2022-09-22",
+            "line_items": [
+                {
+                    "description": "Onderhoudsset CA6707/10",
+                    "quantity": 1,
+                    "amount": 49.99
+                },
+                {
+                    "description": "SX Flyer SAECO Korting KVDNL",
+                    "quantity": 1,
+                    "amount": 0.0
+                }
+            ]
+        }
+    },
+    "Invoice_SammyMaystoneLinesTest": {
+        "id": "3bf388cd-e2dc-497d-a83f-10e69b96aaab",
+        "classification": {
+            "type": "Invoice",
+            "confidence": 1.0
+        },
+        "metadata": {
+            "vendor": "Sammy Maystone",
+            "amount": 127.5,
+            "due_date": "2022-01-31",
+            "line_items": [
+                {
+                    "description": "Service A",
+                    "quantity": 12,
+                    "amount": 120.0
+                },
+                {
+                    "description": "Service B",
+                    "quantity": 5,
+                    "amount": 7.5
+                }
+            ]
+        }
+    }
+}

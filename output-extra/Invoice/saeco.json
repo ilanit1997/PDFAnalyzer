@@ -1,0 +1,24 @@
+{
+    "id": "b80e822a-af20-491e-a097-bfeb90e679c7",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "Strategic Corp",
+        "amount": 49.99,
+        "due_date": "2022-09-22",
+        "line_items": [
+            {
+                "description": "Onderhoudsset CA6707/10",
+                "quantity": 1,
+                "amount": 49.99
+            },
+            {
+                "description": "SX Flyer SAECO Korting KVDNL",
+                "quantity": 1,
+                "amount": 0.0
+            }
+        ]
+    }
+}

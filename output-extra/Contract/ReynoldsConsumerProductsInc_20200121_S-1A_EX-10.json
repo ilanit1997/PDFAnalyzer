@@ -1,0 +1,27 @@
+{
+    "id": "a5b83910-b059-43c0-acd4-9a465dda4fd2",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "Reynolds Group Holdings Inc.",
+            "Reynolds Consumer Products Inc."
+        ],
+        "effective_date": "2020-02-04",
+        "termination_date": null,
+        "key_terms": [
+            "Transition Services Agreement",
+            "Commencement Date",
+            "Provider",
+            "Recipient",
+            "Services",
+            "Termination Date",
+            "Confidential Information",
+            "Indemnified Parties",
+            "Force Majeure Event",
+            "Service Standard"
+        ]
+    }
+}

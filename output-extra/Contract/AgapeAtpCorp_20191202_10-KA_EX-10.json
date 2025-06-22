@@ -1,0 +1,27 @@
+{
+    "id": "f715b488-b152-4152-becd-81bf023bcec7",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "ORGANIC PREPARATIONS INC.",
+            "AGAPE ATP INTERNATIONAL HOLDING LIMITED"
+        ],
+        "effective_date": "2018-01-15",
+        "termination_date": "2028-01-15",
+        "key_terms": [
+            "The Manufacturer appoints the Customer as the sole and exclusive agent for the promotion, sales, marketing distribution and administration of the Products.",
+            "The agreement is for a term of ten (10) years.",
+            "The agreement will be automatically renewed at the end of every ten (10) year term.",
+            "A six (6) months notice must be given by either party to terminate the agreement.",
+            "The Manufacturer agrees to supply documentation and information relating to the Products.",
+            "The Customer agrees to pay freight, insurance and any associated expenses for shipping.",
+            "The Manufacturer guarantees that the Products are packaged to prevent foreseeable damage during shipment.",
+            "The Customer shall inspect all Products promptly upon receipt and may reject defective Products.",
+            "Payment terms require 50% payment on order placement and 50% before goods leave the warehouse.",
+            "The Manufacturer must maintain product liability insurance throughout the term of the agreement."
+        ]
+    }
+}

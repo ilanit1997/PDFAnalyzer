@@ -1,0 +1,19 @@
+{
+    "id": "cd907683-5cb6-4c17-a83f-461f6b19f818",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "WS Retail Services Pvt. Ltd.",
+        "amount": 319.0,
+        "due_date": null,
+        "line_items": [
+            {
+                "description": "Memory cards SanDisk Ultra 16 GB MicroSDHC Class 1 48 MB/s Memory Card",
+                "quantity": 1,
+                "amount": 319.0
+            }
+        ]
+    }
+}

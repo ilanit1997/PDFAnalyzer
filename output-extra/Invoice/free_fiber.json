@@ -1,0 +1,29 @@
+{
+    "id": "03865a8f-d74b-40fc-8f54-bd60cfe3ae9a",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "Free Service Abonné",
+        "amount": 29.99,
+        "due_date": "2015-07-05",
+        "line_items": [
+            {
+                "description": "Abonnements, forfaits et options",
+                "quantity": null,
+                "amount": 29.99
+            },
+            {
+                "description": "Communications",
+                "quantity": null,
+                "amount": 0.0
+            },
+            {
+                "description": "Services ponctuels ou occasionnels",
+                "quantity": null,
+                "amount": 0.0
+            }
+        ]
+    }
+}

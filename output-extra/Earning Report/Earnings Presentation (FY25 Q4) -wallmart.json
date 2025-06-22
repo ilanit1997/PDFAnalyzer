@@ -1,0 +1,41 @@
+{
+    "id": "4ccc9315-6606-4550-89cc-123df5693e24",
+    "classification": {
+        "type": "Earnings",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "reporting_period": "FY25 Q4",
+        "key_metrics": [
+            {
+                "name": "Net Sales",
+                "value": "$159.9 billion"
+            },
+            {
+                "name": "Adjusted Operating Income",
+                "value": "$7.1 billion"
+            },
+            {
+                "name": "Adjusted EPS",
+                "value": "$0.60"
+            },
+            {
+                "name": "Total Revenues",
+                "value": "$182.6 billion"
+            },
+            {
+                "name": "Gross Profit Rate",
+                "value": "23.9%"
+            },
+            {
+                "name": "Operating Income",
+                "value": "$7.9 billion"
+            },
+            {
+                "name": "Free Cash Flow",
+                "value": "$12.7 billion"
+            }
+        ],
+        "executive_summary": "The Company reported strong performance in FY25 Q4, with net sales reaching $159.9 billion and adjusted operating income of $7.1 billion. Total revenues increased to $182.6 billion, reflecting a 5.3% growth in constant currency. The adjusted EPS was $0.60, demonstrating resilience despite challenges in the market. The gross profit rate improved to 23.9%, supported by effective inventory management and a favorable business mix."
+    }
+}

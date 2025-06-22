@@ -1,0 +1,29 @@
+{
+    "id": "d68e386d-54c8-460e-99f8-bacc3f877c99",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "ALEXINUX",
+        "amount": 56.02,
+        "due_date": null,
+        "line_items": [
+            {
+                "description": "le-tout-lyon.fr du 06/12/2022",
+                "quantity": 1,
+                "amount": 45.93
+            },
+            {
+                "description": "Justificatif PDF",
+                "quantity": 1,
+                "amount": 0.75
+            },
+            {
+                "description": "Justificatif Papier",
+                "quantity": 0,
+                "amount": 0
+            }
+        ]
+    }
+}

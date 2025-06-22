@@ -1,0 +1,1 @@
+{'id': '7eda3a20-ff9e-452a-971d-c54722f4a874', 'classification': {'type': 'Invoice', 'confidence': 1.0}, 'metadata': {'vendor': 'Example, LLC', 'amount': 19.0, 'due_date': '2024-03-25', 'line_items': [{'description': 'Subscription', 'quantity': 1, 'amount': 19.0}]}}

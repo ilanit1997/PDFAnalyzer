@@ -1,0 +1,26 @@
+{
+    "id": "52a4186e-a7ec-4dc8-8498-c34159162e3a",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "SUMITOMO MITSUI BANKING CORPORATION",
+            "SMBC NIKKO SECURITIES INC.",
+            "MOELIS & COMPANY HOLDINGS LP",
+            "MOELIS & COMPANY HOLDINGS GP LLC"
+        ],
+        "effective_date": "2011-12-27",
+        "termination_date": "2015-12-27",
+        "key_terms": [
+            "Strategic Alliance",
+            "Non-Circumvention",
+            "Non-Solicitation",
+            "Fee Allocation",
+            "Joint Marketing",
+            "Confidentiality",
+            "Registration Rights"
+        ]
+    }
+}

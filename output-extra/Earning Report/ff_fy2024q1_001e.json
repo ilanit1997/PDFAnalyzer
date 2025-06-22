@@ -1,0 +1,25 @@
+{
+    "id": "92c645d9-d5c1-4b54-956b-8a35420cad49",
+    "classification": {
+        "type": "Earnings",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "reporting_period": "Q1 FY2024 (April to June 2024)",
+        "key_metrics": [
+            {
+                "name": "Net Income Attributable to FUJIFILM Holdings",
+                "value": "60.7 billion yen"
+            },
+            {
+                "name": "Revenue",
+                "value": "749.0 billion yen"
+            },
+            {
+                "name": "Operating Income",
+                "value": "62.2 billion yen"
+            }
+        ],
+        "executive_summary": "In Q1 FY2024, FUJIFILM Holdings Corporation achieved record highs in revenue, operating income, and net income attributable to the company, driven by strong sales in Imaging, Semiconductor Materials, and Medical Systems. Revenue increased by 13.4% year-over-year, reflecting robust performance across various segments despite challenges in the Healthcare sector due to one-time costs."
+    }
+}

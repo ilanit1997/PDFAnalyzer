@@ -1,0 +1,59 @@
+{
+    "id": "36d760e9-62d7-4a83-b948-e14594c839b3",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "Coolblue B.V.",
+        "amount": 4904.94,
+        "due_date": "2014-03-31",
+        "line_items": [
+            {
+                "description": "Decoded Leather Sleeve 15,4'' Vintage Bruin",
+                "quantity": 2,
+                "amount": 199.98
+            },
+            {
+                "description": "Apple MacBook Pro Retina 13,3'' + Apple Magic Mouse",
+                "quantity": 1,
+                "amount": 2321.0
+            },
+            {
+                "description": "Apple MacBook Pro Retina 15,4'' 256 GB Incl. Thuiskopieheffing: Thuiskopie",
+                "quantity": 1,
+                "amount": 4.24
+            },
+            {
+                "description": "Apple Magic Mouse",
+                "quantity": null,
+                "amount": null
+            },
+            {
+                "description": "Microsoft Office Mac Home and Student 2011 NL PKC",
+                "quantity": 1,
+                "amount": 124.99
+            },
+            {
+                "description": "HP USB 3.0 Port Replicator 3005pr (H1L08ET)",
+                "quantity": 1,
+                "amount": 159.99
+            },
+            {
+                "description": "MSI GS60 2QE-226NL Ghost Pro",
+                "quantity": 1,
+                "amount": 1999.0
+            },
+            {
+                "description": "Hex Outpost Origin Rugzak 15'' Grijs",
+                "quantity": 1,
+                "amount": 79.99
+            },
+            {
+                "description": "Case-Mate Barely There Case Sony Xperia Z3 Transparant",
+                "quantity": 1,
+                "amount": 19.99
+            }
+        ]
+    }
+}

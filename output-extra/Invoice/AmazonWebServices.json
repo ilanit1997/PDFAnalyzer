@@ -1,0 +1,34 @@
+{
+    "id": "eadfffed-f7e4-4092-8f18-1e8b573e5006",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "Amazon Web Services, Inc.",
+        "amount": 4.11,
+        "due_date": "2014-08-03",
+        "line_items": [
+            {
+                "description": "AWS Data Transfer",
+                "quantity": null,
+                "amount": 0.01
+            },
+            {
+                "description": "Amazon Elastic Compute Cloud",
+                "quantity": null,
+                "amount": 1.87
+            },
+            {
+                "description": "Amazon Glacier",
+                "quantity": null,
+                "amount": 2.22
+            },
+            {
+                "description": "Amazon Simple Storage Service",
+                "quantity": null,
+                "amount": 0.01
+            }
+        ]
+    }
+}

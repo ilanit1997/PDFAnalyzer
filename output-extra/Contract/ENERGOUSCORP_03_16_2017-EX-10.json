@@ -1,0 +1,24 @@
+{
+    "id": "30fba054-e41b-4dd4-8cd4-0d4e0cfd4e6f",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "Dialog Semiconductor (UK) Ltd.",
+            "Energous Corporation"
+        ],
+        "effective_date": "2016-11-06",
+        "termination_date": null,
+        "key_terms": [
+            "Strategic Alliance Agreement",
+            "Non-exclusive license",
+            "Royalties and Service Fees",
+            "Confidential Information",
+            "Indemnification",
+            "Termination rights",
+            "Commercialization Plan"
+        ]
+    }
+}

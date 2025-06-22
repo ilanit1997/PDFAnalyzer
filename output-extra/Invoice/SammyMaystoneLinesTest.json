@@ -1,0 +1,24 @@
+{
+    "id": "3bf388cd-e2dc-497d-a83f-10e69b96aaab",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "Sammy Maystone",
+        "amount": 127.5,
+        "due_date": "2022-01-31",
+        "line_items": [
+            {
+                "description": "Service A",
+                "quantity": 12,
+                "amount": 120.0
+            },
+            {
+                "description": "Service B",
+                "quantity": 5,
+                "amount": 7.5
+            }
+        ]
+    }
+}

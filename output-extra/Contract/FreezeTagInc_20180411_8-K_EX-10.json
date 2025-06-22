@@ -1,0 +1,25 @@
+{
+    "id": "3d7c7614-06b7-409b-ac62-312ab564d45d",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "American Diabetes Association",
+            "Freeze Tag, Inc."
+        ],
+        "effective_date": "2018-03-22",
+        "termination_date": "2020-03-14",
+        "key_terms": [
+            "Purpose: Benefit the Association and advance its not-for-profit mission",
+            "Scope: Identify and acknowledge Company as a supporter",
+            "Term: Commences on March 15, 2018 and expires on March 14, 2020",
+            "Intellectual Property: Association is the sole owner of its name and logos",
+            "License: Non-exclusive, limited license to use Association Marks",
+            "Indemnification: Each Party agrees to defend and hold harmless the other",
+            "Confidentiality: Provisions maintained as confidential during and after the Term",
+            "Governing Law: Subject to laws of the Commonwealth of Virginia"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "7c862a43-deca-4b69-b6b3-12b91bd984c1",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "REYNOLDS CONSUMER PRODUCTS LLC",
+            "PACTIV LLC"
+        ],
+        "effective_date": "2019-11-01",
+        "termination_date": null,
+        "key_terms": [
+            "Seller sells various types of products used in the consumer and food service markets.",
+            "Buyer sells various types of products, including certain products of the type made by Seller, to its customers.",
+            "The Term of this Agreement will commence on the Effective Date and will end on the earlier of: (a) the first anniversary of the expiration date of the last Purchase Schedule; (b) a termination date elected by a Party in a written notice delivered to the other Party any time after the expiration of the last Purchase Schedule; or (c) a termination date elected by a Party in a written notice delivered to the other Party as provided in Subsection 11(d) of this Agreement.",
+            "This Agreement will apply to all products sold by Seller to Buyer, and all products purchased by Buyer from Seller, during the Term unless the Parties expressly agree that this Agreement will not apply to a particular type of transaction in a separate written document signed by an officer of each Party.",
+            "The Parties may add terms and conditions to, and amend the terms and conditions of, this Agreement in a Purchase Schedule."
+        ]
+    }
+}

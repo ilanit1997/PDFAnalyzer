@@ -1,0 +1,41 @@
+{
+    "id": "53b7224b-c1ea-4686-bebb-2cb383fc3422",
+    "classification": {
+        "type": "Earnings",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "reporting_period": "Q1 2025",
+        "key_metrics": [
+            {
+                "name": "Total Revenue",
+                "value": "$42,314"
+            },
+            {
+                "name": "Advertising Revenue",
+                "value": "$41,392"
+            },
+            {
+                "name": "Net Income",
+                "value": "$5,709"
+            },
+            {
+                "name": "Diluted Earnings Per Share",
+                "value": "$2.20"
+            },
+            {
+                "name": "Operating Income",
+                "value": "$17,555"
+            },
+            {
+                "name": "Family Daily Active People",
+                "value": "3.02 billion"
+            },
+            {
+                "name": "Average Revenue per Person",
+                "value": "$14.25"
+            }
+        ],
+        "executive_summary": "In Q1 2025, Meta reported a total revenue of $42.314 billion, driven primarily by advertising revenue of $41.392 billion. The company achieved a net income of $5.709 billion, translating to a diluted earnings per share of $2.20. The Family of Apps continues to show strong engagement with 3.02 billion daily active users, and the average revenue per person reached $14.25."
+    }
+}

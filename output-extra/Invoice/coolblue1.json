@@ -1,0 +1,44 @@
+{
+    "id": "3128518f-511c-436a-9ab6-06cb23a291c6",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "Coolblue B.V.",
+        "amount": 717.97,
+        "due_date": null,
+        "line_items": [
+            {
+                "description": "Apple iPad Air Wifi 16 GB Zilver",
+                "quantity": 1,
+                "amount": 399.0
+            },
+            {
+                "description": "Thuiskopie",
+                "quantity": 1,
+                "amount": 4.24
+            },
+            {
+                "description": "Decoded Leather Slim Cover Apple iPad Air 2 Zwart",
+                "quantity": 1,
+                "amount": 69.99
+            },
+            {
+                "description": "Nintendo 3DS XL Wit + Blauw",
+                "quantity": 1,
+                "amount": 189.0
+            },
+            {
+                "description": "Nintendo AC-adapter",
+                "quantity": 1,
+                "amount": 14.99
+            },
+            {
+                "description": "Mario Kart 7 3DS",
+                "quantity": 1,
+                "amount": 44.99
+            }
+        ]
+    }
+}

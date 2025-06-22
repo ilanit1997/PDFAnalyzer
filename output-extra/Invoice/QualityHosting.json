@@ -1,0 +1,49 @@
+{
+    "id": "bb553782-32e5-444f-8dc4-aa2761082979",
+    "classification": {
+        "type": "Invoice",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "vendor": "iViveLabs Ltd.",
+        "amount": 34.73,
+        "due_date": "2014-05-21",
+        "line_items": [
+            {
+                "description": "Small Business StandardExchange 2010",
+                "quantity": 1,
+                "amount": 3.89
+            },
+            {
+                "description": "Small Business QualityExchange 2010",
+                "quantity": 1,
+                "amount": 5.39
+            },
+            {
+                "description": "Small Business QualityExchange 2010",
+                "quantity": 1,
+                "amount": 5.39
+            },
+            {
+                "description": "Small Business QualityExchange 2010",
+                "quantity": 1,
+                "amount": 5.39
+            },
+            {
+                "description": "Small Business QualityExchange 2010",
+                "quantity": 1,
+                "amount": 5.39
+            },
+            {
+                "description": "Small Business QualityExchange 2010",
+                "quantity": 1,
+                "amount": 5.39
+            },
+            {
+                "description": "Small Business StandardExchange 2010",
+                "quantity": 1,
+                "amount": 3.89
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "12b3e5d3-c8aa-4ee4-b7b1-31c523ec74a0",
+    "classification": {
+        "type": "Contract",
+        "confidence": 1.0
+    },
+    "metadata": {
+        "parties": [
+            "Fruit of Life Productions LLC",
+            "Eco Science Solutions, Inc."
+        ],
+        "effective_date": "2018-04-01",
+        "termination_date": "2018-04-30",
+        "key_terms": [
+            "Sponsor agrees to contract for the amount of $250,000.00",
+            "Main Stage named after the brand",
+            "4 10x10 on site vendor booths",
+            "50 VIP Sponsor Passes / 50 GA tickets for both days",
+            "4 Parking passes",
+            "Opportunity to participate in after party",
+            "Banner placement in venue (10)",
+            "Approved audio/video assets for promotional use",
+            "Logo and link from website to website",
+            "Logo on video wall",
+            "Company name and logo as a presenting sponsor",
+            "Banner at main entrance of venue",
+            "On stage banner placement",
+            "Logo in Backstage/VIP area",
+            "Mention on social media",
+            "Logo on Step and Repeat",
+            "Logo on all promotional print"
+        ]
+    }
+}
